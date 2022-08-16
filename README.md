@@ -11,6 +11,7 @@
 
 📫 How to reach me:
   📧 palmayohanaly@gmail.com
+  
   www.linkedin.com/in/yohanaly-palma
   
 ⚡ Fun fact: I wish to learn video game programming.
