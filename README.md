@@ -9,6 +9,14 @@
 
 🤔 I'm a curious person always willing to learn more and to collaborate with my knowledge. Likewise, my professional experience has allowed me to develop skills such as customer service, teamwork, leadership, autonomy, among others.
 
+The technologies I work with include:
+
+  🟡 JavaScript
+  🟠 HTML / CSS
+  🔵 ReactJS - Redux
+  🟢 NodeJS - Express
+  🔵 PostgreSQL
+
 📫 How to reach me:
   📧 palmayohanaly@gmail.com
   
